@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "I1EuXkkqtIJFUPQS02vIAVx8CcCo6Rb+w01dQAttHmM=",
+  "Hash": "4aGsib2qKelmwIvBMJRsaUHuq71MnvWybQG+jXunwDs=",
   "Source": "QuickRent",
   "BasePath": "_content/QuickRent",
   "Mode": "Default",
@@ -1231,6 +1231,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\oltib\\source\\repos\\QuickRent\\QuickRent\\wwwroot\\images\\car\\225c474e-5770-4f35-a1b6-184c002898bd.jpg",
+      "SourceId": "QuickRent",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oltib\\source\\repos\\QuickRent\\QuickRent\\wwwroot\\",
+      "BasePath": "_content/QuickRent",
+      "RelativePath": "images/car/225c474e-5770-4f35-a1b6-184c002898bd.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\car\\225c474e-5770-4f35-a1b6-184c002898bd.jpg"
     },
     {
       "Identity": "C:\\Users\\oltib\\source\\repos\\QuickRent\\QuickRent\\wwwroot\\js\\site.js",

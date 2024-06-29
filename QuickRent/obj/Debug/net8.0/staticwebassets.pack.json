@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\oltib\\source\\repos\\QuickRent\\QuickRent\\wwwroot\\images\\car\\225c474e-5770-4f35-a1b6-184c002898bd.jpg",
+      "PackagePath": "staticwebassets\\images\\car\\225c474e-5770-4f35-a1b6-184c002898bd.jpg"
+    },
+    {
       "Id": "C:\\Users\\oltib\\source\\repos\\QuickRent\\QuickRent\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

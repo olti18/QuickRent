@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using QuickRent.Areas.Identity.Data;
+using QuickRent.Models;
 
 namespace QuickRent.Data;
 
@@ -10,8 +11,9 @@ public class QuickDbContext : IdentityDbContext<ApplicationUser>
     public QuickDbContext(DbContextOptions<QuickDbContext> options)
         : base(options)
     {
-    }
 
+    }
+    public DbSet<Car> Cars { get; set; }
     protected override void OnModelCreating(ModelBuilder builder)
     {
         base.OnModelCreating(builder);

@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QuickRent")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ebbc4eb9322b5564a1cf76a289e6ddd26d68bb2")]
 [assembly: System.Reflection.AssemblyProductAttribute("QuickRent")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QuickRent")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
