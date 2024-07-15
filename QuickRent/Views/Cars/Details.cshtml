@@ -1,10 +1,17 @@
 ﻿@using QuickRent.Models;
-@model QuickRent.Models.Car
-@{
-    ViewData["Title"] = "Delete";
-    Layout = "~/Views/Shared/_Layout.cshtml";
-}
-<h1>Details</h1>
+@*Error @model QuickRent.Models.Car*@
+@model CarsDetailsViewModel
+@using Microsoft.AspNetCore.Identity
+@using QuickRent.Areas.Identity.Data
+
+@inject SignInManager<ApplicationUser> SignInManager
+@inject UserManager<ApplicationUser> UserManager
+
+
+
+
+
+@* <h1>Details</h1>
 
 <div>
     <h4>Breed</h4>
@@ -40,3 +47,19 @@
     <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
     <a asp-action="Index">Back to List</a>
 </div>
+*@
+<div class="container mt-5">
+<div class="row justify-content-center">
+    <div class="col-lg-10">
+        <div class="dog-details shadow-sm p-3 mb-5 bg-white rounded">
+            <div class="row">
+                <div class="col-md-6">
+                        @*   <h2 class="card-title">@Model.CarsClasses</h2>
+                    <p class="card-text"><strong>Breed:</strong> @Model.Cars.Breeds.Name</p>
+                        <p class="card-text"><strong>Gender:</strong> @Model.Dog.Gender</p>
+                        </div>*@
+                 <div class="col-md-6 text-center">
+                    <img src="@Model.Car.ImageUrl" class="img-fluid rounded" alt="Dog Image" />
+                        </div>
+            </div>
+        </div>

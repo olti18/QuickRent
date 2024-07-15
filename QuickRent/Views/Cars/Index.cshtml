@@ -43,8 +43,18 @@
                             <a asp-action="Details" asp-route-id="@Car.Id" class="btn btn-primary bg-gradient border-0">
                                 Show Details
                             </a>
+                            
                             @* <a asp-controller="WishList" asp-action="AddToWishlist" asp-route-id="@Dog.Id" style="color:" class="btn btn-primary bg-gradient border-0">
                                 WishList
+                        </a>*@
+                        </div>
+                        <div class="d-flex justify-content-around" style="padding: 10px">
+                           
+                            <a asp-action="Details" asp-route-id="@Car.Id" class="btn btn-primary bg-gradient border-0">
+                                Rent this car
+                            </a>
+                            @* <a asp-controller="WishList" asp-action="AddToWishlist" asp-route-id="@Dog.Id" style="color:" class="btn btn-primary bg-gradient border-0">
+                        WishList
                         </a>*@
                         </div>
                         @if (this.User.IsInRole("Admin"))

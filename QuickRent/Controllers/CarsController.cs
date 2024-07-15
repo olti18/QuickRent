@@ -32,8 +32,12 @@ namespace QuickRent.Controllers
                 return NotFound();
             }
             var car = _context.Cars.FirstOrDefault(car => car.Id == id);
-
-            return View(car);
+            var viewModel = new CarsDetailsViewModel
+            {
+                Car = car,
+                // Add other properties if needed
+            };
+            return View(viewModel);
         }
 
         [HttpGet]

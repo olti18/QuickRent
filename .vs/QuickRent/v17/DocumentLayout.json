@@ -3,32 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\oltib\\source\\repos\\QuickRent\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BE05E953-054E-457C-975E-3CAF8A0BD45B}|QuickRent\\QuickRent.csproj|c:\\users\\oltib\\source\\repos\\quickrent\\quickrent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE05E953-054E-457C-975E-3CAF8A0BD45B}|QuickRent\\QuickRent.csproj|solutionrelative:quickrent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE05E953-054E-457C-975E-3CAF8A0BD45B}|QuickRent\\QuickRent.csproj|c:\\users\\oltib\\source\\repos\\quickrent\\quickrent\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE05E953-054E-457C-975E-3CAF8A0BD45B}|QuickRent\\QuickRent.csproj|solutionrelative:quickrent\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BE05E953-054E-457C-975E-3CAF8A0BD45B}|QuickRent\\QuickRent.csproj|c:\\users\\oltib\\source\\repos\\quickrent\\quickrent\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE05E953-054E-457C-975E-3CAF8A0BD45B}|QuickRent\\QuickRent.csproj|solutionrelative:quickrent\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE05E953-054E-457C-975E-3CAF8A0BD45B}|QuickRent\\QuickRent.csproj|c:\\users\\oltib\\source\\repos\\quickrent\\quickrent\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE05E953-054E-457C-975E-3CAF8A0BD45B}|QuickRent\\QuickRent.csproj|solutionrelative:quickrent\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE05E953-054E-457C-975E-3CAF8A0BD45B}|QuickRent\\QuickRent.csproj|c:\\users\\oltib\\source\\repos\\quickrent\\quickrent\\views\\cars\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BE05E953-054E-457C-975E-3CAF8A0BD45B}|QuickRent\\QuickRent.csproj|solutionrelative:quickrent\\views\\cars\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE05E953-054E-457C-975E-3CAF8A0BD45B}|QuickRent\\QuickRent.csproj|c:\\users\\oltib\\source\\repos\\quickrent\\quickrent\\views\\cars\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BE05E953-054E-457C-975E-3CAF8A0BD45B}|QuickRent\\QuickRent.csproj|solutionrelative:quickrent\\views\\cars\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE05E953-054E-457C-975E-3CAF8A0BD45B}|QuickRent\\QuickRent.csproj|c:\\users\\oltib\\source\\repos\\quickrent\\quickrent\\views\\cars\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BE05E953-054E-457C-975E-3CAF8A0BD45B}|QuickRent\\QuickRent.csproj|solutionrelative:quickrent\\views\\cars\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BE05E953-054E-457C-975E-3CAF8A0BD45B}|QuickRent\\QuickRent.csproj|c:\\users\\oltib\\source\\repos\\quickrent\\quickrent\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE05E953-054E-457C-975E-3CAF8A0BD45B}|QuickRent\\QuickRent.csproj|solutionrelative:quickrent\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE05E953-054E-457C-975E-3CAF8A0BD45B}|QuickRent\\QuickRent.csproj|c:\\users\\oltib\\source\\repos\\quickrent\\quickrent\\views\\cars\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -37,6 +17,38 @@
     {
       "AbsoluteMoniker": "D:0:0:{BE05E953-054E-457C-975E-3CAF8A0BD45B}|QuickRent\\QuickRent.csproj|c:\\users\\oltib\\source\\repos\\quickrent\\quickrent\\views\\cars\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BE05E953-054E-457C-975E-3CAF8A0BD45B}|QuickRent\\QuickRent.csproj|solutionrelative:quickrent\\views\\cars\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE05E953-054E-457C-975E-3CAF8A0BD45B}|QuickRent\\QuickRent.csproj|c:\\users\\oltib\\source\\repos\\quickrent\\quickrent\\views\\cars\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE05E953-054E-457C-975E-3CAF8A0BD45B}|QuickRent\\QuickRent.csproj|solutionrelative:quickrent\\views\\cars\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE05E953-054E-457C-975E-3CAF8A0BD45B}|QuickRent\\QuickRent.csproj|c:\\users\\oltib\\source\\repos\\quickrent\\quickrent\\views\\cars\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE05E953-054E-457C-975E-3CAF8A0BD45B}|QuickRent\\QuickRent.csproj|solutionrelative:quickrent\\views\\cars\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE05E953-054E-457C-975E-3CAF8A0BD45B}|QuickRent\\QuickRent.csproj|c:\\users\\oltib\\source\\repos\\quickrent\\quickrent\\models\\carsdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE05E953-054E-457C-975E-3CAF8A0BD45B}|QuickRent\\QuickRent.csproj|solutionrelative:quickrent\\models\\carsdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE05E953-054E-457C-975E-3CAF8A0BD45B}|QuickRent\\QuickRent.csproj|c:\\users\\oltib\\source\\repos\\quickrent\\quickrent\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE05E953-054E-457C-975E-3CAF8A0BD45B}|QuickRent\\QuickRent.csproj|solutionrelative:quickrent\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE05E953-054E-457C-975E-3CAF8A0BD45B}|QuickRent\\QuickRent.csproj|c:\\users\\oltib\\source\\repos\\quickrent\\quickrent\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE05E953-054E-457C-975E-3CAF8A0BD45B}|QuickRent\\QuickRent.csproj|solutionrelative:quickrent\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE05E953-054E-457C-975E-3CAF8A0BD45B}|QuickRent\\QuickRent.csproj|c:\\users\\oltib\\source\\repos\\quickrent\\quickrent\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE05E953-054E-457C-975E-3CAF8A0BD45B}|QuickRent\\QuickRent.csproj|solutionrelative:quickrent\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE05E953-054E-457C-975E-3CAF8A0BD45B}|QuickRent\\QuickRent.csproj|c:\\users\\oltib\\source\\repos\\quickrent\\quickrent\\views\\cars\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE05E953-054E-457C-975E-3CAF8A0BD45B}|QuickRent\\QuickRent.csproj|solutionrelative:quickrent\\views\\cars\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE05E953-054E-457C-975E-3CAF8A0BD45B}|QuickRent\\QuickRent.csproj|c:\\users\\oltib\\source\\repos\\quickrent\\quickrent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE05E953-054E-457C-975E-3CAF8A0BD45B}|QuickRent\\QuickRent.csproj|solutionrelative:quickrent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,46 +66,57 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\oltib\\source\\repos\\QuickRent\\QuickRent\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "QuickRent\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\oltib\\source\\repos\\QuickRent\\QuickRent\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "QuickRent\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T20:55:51.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\oltib\\source\\repos\\QuickRent\\QuickRent\\Program.cs",
-              "RelativeDocumentMoniker": "QuickRent\\Program.cs",
-              "ToolTip": "C:\\Users\\oltib\\source\\repos\\QuickRent\\QuickRent\\Program.cs",
-              "RelativeToolTip": "QuickRent\\Program.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAACUAAAAuAAAA",
+              "Title": "CarsController.cs",
+              "DocumentMoniker": "C:\\Users\\oltib\\source\\repos\\QuickRent\\QuickRent\\Controllers\\CarsController.cs",
+              "RelativeDocumentMoniker": "QuickRent\\Controllers\\CarsController.cs",
+              "ToolTip": "C:\\Users\\oltib\\source\\repos\\QuickRent\\QuickRent\\Controllers\\CarsController.cs",
+              "RelativeToolTip": "QuickRent\\Controllers\\CarsController.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAcwHEAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T23:04:46.51Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\oltib\\source\\repos\\QuickRent\\QuickRent\\Views\\Cars\\Details.cshtml",
-              "RelativeDocumentMoniker": "QuickRent\\Views\\Cars\\Details.cshtml",
-              "ToolTip": "C:\\Users\\oltib\\source\\repos\\QuickRent\\QuickRent\\Views\\Cars\\Details.cshtml",
-              "RelativeToolTip": "QuickRent\\Views\\Cars\\Details.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-29T22:57:55.171Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\oltib\\source\\repos\\QuickRent\\QuickRent\\Views\\Cars\\Edit.cshtml",
-              "RelativeDocumentMoniker": "QuickRent\\Views\\Cars\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\oltib\\source\\repos\\QuickRent\\QuickRent\\Views\\Cars\\Edit.cshtml",
-              "RelativeToolTip": "QuickRent\\Views\\Cars\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-29T22:41:57.037Z",
+              "WhenOpened": "2024-06-29T15:38:26.412Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "CarsDetailsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\oltib\\source\\repos\\QuickRent\\QuickRent\\Models\\CarsDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "QuickRent\\Models\\CarsDetailsViewModel.cs",
+              "ToolTip": "C:\\Users\\oltib\\source\\repos\\QuickRent\\QuickRent\\Models\\CarsDetailsViewModel.cs",
+              "RelativeToolTip": "QuickRent\\Models\\CarsDetailsViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T16:11:24.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\oltib\\source\\repos\\QuickRent\\QuickRent\\Views\\Cars\\Details.cshtml",
+              "RelativeDocumentMoniker": "QuickRent\\Views\\Cars\\Details.cshtml",
+              "ToolTip": "C:\\Users\\oltib\\source\\repos\\QuickRent\\QuickRent\\Views\\Cars\\Details.cshtml",
+              "RelativeToolTip": "QuickRent\\Views\\Cars\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-29T22:57:55.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\oltib\\source\\repos\\QuickRent\\QuickRent\\Views\\Cars\\Delete.cshtml",
               "RelativeDocumentMoniker": "QuickRent\\Views\\Cars\\Delete.cshtml",
@@ -101,25 +124,11 @@
               "RelativeToolTip": "QuickRent\\Views\\Cars\\Delete.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-29T22:39:40.616Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-29T22:39:40.616Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Car.cs",
-              "DocumentMoniker": "C:\\Users\\oltib\\source\\repos\\QuickRent\\QuickRent\\Models\\Car.cs",
-              "RelativeDocumentMoniker": "QuickRent\\Models\\Car.cs",
-              "ToolTip": "C:\\Users\\oltib\\source\\repos\\QuickRent\\QuickRent\\Models\\Car.cs",
-              "RelativeToolTip": "QuickRent\\Models\\Car.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T22:29:35.435Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\oltib\\source\\repos\\QuickRent\\QuickRent\\Views\\Cars\\Create.cshtml",
               "RelativeDocumentMoniker": "QuickRent\\Views\\Cars\\Create.cshtml",
@@ -127,25 +136,11 @@
               "RelativeToolTip": "QuickRent\\Views\\Cars\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-29T16:25:07.704Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-29T16:25:07.704Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CarsController.cs",
-              "DocumentMoniker": "C:\\Users\\oltib\\source\\repos\\QuickRent\\QuickRent\\Controllers\\CarsController.cs",
-              "RelativeDocumentMoniker": "QuickRent\\Controllers\\CarsController.cs",
-              "ToolTip": "C:\\Users\\oltib\\source\\repos\\QuickRent\\QuickRent\\Controllers\\CarsController.cs",
-              "RelativeToolTip": "QuickRent\\Controllers\\CarsController.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwA8AAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T15:38:26.412Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\oltib\\source\\repos\\QuickRent\\QuickRent\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "QuickRent\\Controllers\\HomeController.cs",
@@ -153,21 +148,67 @@
               "RelativeToolTip": "QuickRent\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAQwA8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T22:50:40.246Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-29T22:50:40.246Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\oltib\\source\\repos\\QuickRent\\QuickRent\\Views\\Cars\\Edit.cshtml",
+              "RelativeDocumentMoniker": "QuickRent\\Views\\Cars\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\oltib\\source\\repos\\QuickRent\\QuickRent\\Views\\Cars\\Edit.cshtml",
+              "RelativeToolTip": "QuickRent\\Views\\Cars\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-29T22:41:57.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\oltib\\source\\repos\\QuickRent\\QuickRent\\Views\\Cars\\Index.cshtml",
               "RelativeDocumentMoniker": "QuickRent\\Views\\Cars\\Index.cshtml",
               "ToolTip": "C:\\Users\\oltib\\source\\repos\\QuickRent\\QuickRent\\Views\\Cars\\Index.cshtml",
               "RelativeToolTip": "QuickRent\\Views\\Cars\\Index.cshtml",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAACoAAAAyAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-29T22:48:34.288Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-29T22:48:34.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\oltib\\source\\repos\\QuickRent\\QuickRent\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "QuickRent\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\oltib\\source\\repos\\QuickRent\\QuickRent\\Models\\Car.cs",
+              "RelativeToolTip": "QuickRent\\Models\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T22:29:35.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\oltib\\source\\repos\\QuickRent\\QuickRent\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "QuickRent\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\oltib\\source\\repos\\QuickRent\\QuickRent\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "QuickRent\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T18:42:37.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\oltib\\source\\repos\\QuickRent\\QuickRent\\Program.cs",
+              "RelativeDocumentMoniker": "QuickRent\\Program.cs",
+              "ToolTip": "C:\\Users\\oltib\\source\\repos\\QuickRent\\QuickRent\\Program.cs",
+              "RelativeToolTip": "QuickRent\\Program.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T23:04:46.51Z"
             }
           ]
         }
